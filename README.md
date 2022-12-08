@@ -14,6 +14,12 @@ In what follows we provide a week-by-week plan including readings, journal promp
 
 ### Week 1
 
+This week we will begin with the basics of Python.  
+
+* Learning Objective: Students will learn the basics of Python variables using Google Colab Notebooks.
+* In-Class Exerices: [Intro to Python Basics Workbook](https://colab.research.google.com/drive/1LOQ58TVwgSLHTadxWIcJXjtujXFJ1Ks0?usp=sharing)
+* Assessment: None
+
 ### Week 2
 
 ### Week 3
