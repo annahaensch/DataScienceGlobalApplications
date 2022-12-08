@@ -4,13 +4,13 @@ _This course material was originally prepared by [Anna Haensch](https://annahaen
 
 ## Course Ouline
 
-This course is designed for a 14 week semester with two 80 minute class meetings per week. Here we present the main topics for in-class discussion and groupwork as well as periodic assessemnts. 
+This course is designed for a 14 week semester with two 80 minute class meetings per week. Here we present the main ideas of each module and week of instruction. 
 
 ![](figures/CourseOutline.png)
 
 ## Weekly Planner
 
-In what follows we provide a week-by-week plan including readings, journal prompts and assessments.
+In what follows we provide a week-by-week plan including learning objectives, suggested readings, benchmarks and assessments.
 
 ### Week 1
 
@@ -42,9 +42,14 @@ In what follows we provide a week-by-week plan including readings, journal promp
 
 ### Week 4
 * Learning Objectives: 
+  * Students will set up their local computing environment and develop comfort with command line prompts.
+  * Students will begin to use Python in Jupyter Labs instead of Google Colab.
 * In Class-Exercises:
 * Suggested Reading: [T. Gillespie, "The Relevance of Algorithms." (2013).](https://www.microsoft.com/en-us/research/wp-content/uploads/2014/01/Gillespie_2014_The-Relevance-of-Algorithms.pdf)
 * Project Benchmark: 
+The goal of this check-in is to make progress on identifying several datasets that might be useful for your final project. You may want to re-read the final project rubric belown to keep in mind the expectations about what you will be creating.  For one (or two if you are having trouble deciding at this point) of the research questions that you suggested in your previous project check-in, do the following:
+  * Identify at least two datasets that might be relevant to the question
+  * Write a sentence or two about each of the datasets to explain what it is and why it might be useful to you (we will do a more extensive data audit later in the course).
 
 ### Week 5
 * Learning Objectives: 
