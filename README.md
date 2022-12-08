@@ -16,12 +16,23 @@ In what follows we provide a week-by-week plan including readings, journal promp
 
 This week we will begin with the basics of Python.  
 
-* Learning Objective: Students will learn the basics of Python variables using Google Colab Notebooks.
+* Learning Objective: 
+  * Students will learn the basics of Python variables using Google Colab Notebooks.
 * In-Class Exerices: [Intro to Python Basics Workbook](https://colab.research.google.com/drive/1LOQ58TVwgSLHTadxWIcJXjtujXFJ1Ks0?usp=sharing)
-* Assessment: None
 
 ### Week 2
 
+This week we will continue our practice with Python basics and we will begin to work with dataframes.
+
+* Learning Objectives: 
+  * Students will learn how to execute for loops in Python.
+  * Students will learn how to load and inspect data using pandas.
+  * Students will be able to critique the assumptions and decisions that go into preliminary data acquisition and analysis, and be able to critique data collection methods (selection bias, etc.) 
+* In-Class Exerices: [Intro to Dataframe with pandas]()
+* Assessments:
+  * Project Check-In: 
+  * Journal Reflection: 
+  
 ### Week 3
 
 ### Week 4
