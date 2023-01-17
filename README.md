@@ -117,11 +117,15 @@ In what follows we provide a week-by-week plan including learning objectives, ex
 
 #### Week 13
 * Learning Objectives: 
+  * Students will execute an end-to-end machine learning pipeline using their own dataset.
+  * Students will interpret model results and design compelling visualizations to communicate the same.
 * In Class-Exercises:
 * Suggested Reading: [Z.C. Lipton, "The Mythos of Model Interpretability." (2017).](https://arxiv.org/pdf/1606.03490.pdf)
 
 #### Week 14
 * Learning Objectives: 
+  * Students will identify key takeaways from their data and modeling.
+  * Students will concisely communicate their findings.
 * In Class-Exercises:
 * Suggested Reading: [J. Angwin, J. Larson, S. Mattu & L. Kirchner, "Machine Bias." (2016)](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing)
 
