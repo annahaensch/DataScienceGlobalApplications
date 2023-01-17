@@ -86,9 +86,9 @@ In what follows we provide a week-by-week plan including learning objectives, ex
 
 #### Week 9
 * Learning Objectives: 
-  * Students will understand the meaning of mean, median, mode and variance of a dataset. 
   * Students will compute descriptive statistics with Python and interpret the results.
-  * Students will execute clustering on a dataset using scikitlearn and the Gaussian mixture model class.
+  * Students will recognize the unifying structure of data models in Scikitlearn.
+  * Students will perform Gaussian mixture model clustering and tune parameters on an existing model.
 * In Class-Exercises:
 * Suggested Reading: [FiveThirtyEight Staff, "Our 51 Best (And Weirdest) Charts Of 2021." (2021).](https://fivethirtyeight.com/features/our-51-best-and-weirdest-charts-of-2021/) 
 
