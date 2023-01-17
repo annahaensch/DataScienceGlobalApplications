@@ -159,7 +159,8 @@ A core throughline of this course is the policy project.  There are various chec
 * __Identification of Datasets of Interest__:  Students will choose one policy question of focus, and indentify 2-3 datasets that will help them answer this question.  Students will identify the steps necessary to acquire these datasets, but not necessarily carry these steps out (yet). 
 * __Draft Data Audit__: Students will gain an understanding of the datasets they are using, with the goal of making sure that their data is reusable, and their work is reproducible.  This is also a mechanism for understanding the origins of the data to help uncover bias.  Precise text of the data audit assignment can he found [here]().  
 * __Draft Data Visualization__: Students will use the knowledge gained in the data visualization module of the course to create at least one compelling visualization of their data.  Visualizations will be accompanied by ~100 word alt-text.
-
+* __Presentation__: Students will create a concise one-slide presentation highlighting key takeaways from the project and at leat one illustrative data visualization. Students will present this slide in conversation with the class.
 The rubric for the final policy paper and presentation is below.  
+* __Policy Paper__: Students will prepare a policy paper that specifically addresses their policy question.  This paper will include a narrative version of the data audit a methodology section that includes details of models used, a results section that discusses model output and validation, and a conclusion section that frames results in terms of the posed policy question. The rubric for the policy paper and presentation is below.
 ![](figures/ProjectRubric.png)
 
