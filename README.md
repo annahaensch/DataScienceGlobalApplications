@@ -47,14 +47,16 @@ In what follows we provide a week-by-week plan including learning objectives, su
 
 ### Week 5
 * Learning Objectives: 
-  * Students will understand the fundamentals of good data visualization, including the principle of proportional ink and the 
+  * Students will understand the fundamentals of good data visualization, including the principle of proportional ink and chart junk.
+  * Students will identify and discuss effective and ineffective uses of the principle of proportional ink in real world charts.
   * Students will have famiarity with components of Matplotlib plots, such as axes and figures.
 * In Class-Exercises: [Basics of Visualization with Matplotlib]
 * Suggested Reading: [C.O. Wilke, "Fundamentals of Data Visualization, Part I." (2019).](https://clauswilke.com/dataviz/)
 
 ### Week 6
 * Learning Objectives: 
-  * Students will recognize the importance of color in data visualization, especially the distinction between qualitative and sequential color scales.
+  * Students will understand the importance of color in data visualization. 
+  * between will be able to differentiate between qualitative and sequential color scales and identify use cases for each. 
   * Students will gain basic familiarity with mapping tools in Geopandas.
 * In Class-Exercises:
 * Suggested Reading: [C. Weaver, "The Unmitigated Chaos of America’s Attempt at Color-Coded Covid Guidance" (2021)](https://www.nytimes.com/2021/04/02/style/coronavirus-safety-colors-states.html) 
@@ -62,14 +64,15 @@ In what follows we provide a week-by-week plan including learning objectives, su
 ### Week 7
 * Learning Objectives: 
   * Students will recognize the importance and impact of labels and annotation in plotting and will understand how to deploy these tools.
-  * Students will gain exposure to less common plot classes such as radial plots and heatmaps.
+  * Students will identify and discuss effective and ineffective uses of chart annotation in real world charts.
+  * Students will beccome familiar with less common plot classes such as radial plots and heatmaps.
 * In Class-Exercises:
 * Suggested Reading: [C.O. Wilke, "Fundamentals of Data Visualization, Part II." (2019).](https://clauswilke.com/dataviz/)
 
 ### Week 8
 * Learning Objectives: 
-  * Students will have developed a sense of use cases for various plot types.
-  * Students will be able to carry execute a full Python visualization pipeline from ingesting the data, to printing a figure.
+  * Students will demonstrate an understanding of the use cases for various plot types by selecting a plot type for their own data.
+  * Students will execute a full Python visualization pipeline from ingesting the data, to printing a figure.
 * In Class-Exercises:
 * Suggested Reading: [A. Cairo, "How Charts Lie, Ch. 1 & 2." (2019).](https://www.amazon.com/How-Charts-Lie-Getting-Information/dp/1324001569)
 
