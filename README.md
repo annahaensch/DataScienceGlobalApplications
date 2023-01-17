@@ -47,21 +47,29 @@ In what follows we provide a week-by-week plan including learning objectives, su
 
 ### Week 5
 * Learning Objectives: 
+  * Students will understand the fundamentals of good data visualization, including the principle of proportional ink and the 
+  * Students will have famiarity with components of Matplotlib plots, such as axes and figures.
 * In Class-Exercises: [Basics of Visualization with Matplotlib]
 * Suggested Reading: [C.O. Wilke, "Fundamentals of Data Visualization, Part I." (2019).](https://clauswilke.com/dataviz/)
 
 ### Week 6
 * Learning Objectives: 
+  * Students will recognize the importance of color in data visualization, especially the distinction between qualitative and sequential color scales.
+  * Students will gain basic familiarity with mapping tools in Geopandas.
 * In Class-Exercises:
 * Suggested Reading: [C. Weaver, "The Unmitigated Chaos of America’s Attempt at Color-Coded Covid Guidance" (2021)](https://www.nytimes.com/2021/04/02/style/coronavirus-safety-colors-states.html) 
 
 ### Week 7
 * Learning Objectives: 
+  * Students will recognize the importance and impact of labels and annotation in plotting and will understand how to deploy these tools.
+  * Students will gain exposure to less common plot classes such as radial plots and heatmaps.
 * In Class-Exercises:
 * Suggested Reading: [C.O. Wilke, "Fundamentals of Data Visualization, Part II." (2019).](https://clauswilke.com/dataviz/)
 
 ### Week 8
 * Learning Objectives: 
+  * Students will have developed a sense of use cases for various plot types.
+  * Students will be able to carry execute a full Python visualization pipeline from ingesting the data, to printing a figure.
 * In Class-Exercises:
 * Suggested Reading: [A. Cairo, "How Charts Lie, Ch. 1 & 2." (2019).](https://www.amazon.com/How-Charts-Lie-Getting-Information/dp/1324001569)
 
@@ -73,17 +81,17 @@ In what follows we provide a week-by-week plan including learning objectives, su
 ### Week 10
 * Learning Objectives: 
 * In Class-Exercises:
-* Suggested Reading: [L. Breiman, "Statistical Modeling: The Two Cultures." (2021).](http://www2.math.uu.se/~thulin/mm/breiman.pdf) 
+* Suggested Reading: [J. Buolamwini & T. Gebru, "Gender Shades: Intersectional Accuracy Disparities in Commercial Gender Classification." (2018).](https://proceedings.mlr.press/v81/buolamwini18a/buolamwini18a.pdf)
 
 ### Week 11
 * Learning Objectives: 
 * In Class-Exercises:
-* Suggested Reading:  [J. Buolamwini & T. Gebru, "Gender Shades: Intersectional Accuracy Disparities in Commercial Gender Classification." (2018).](https://proceedings.mlr.press/v81/buolamwini18a/buolamwini18a.pdf)
+* Suggested Reading: [L. Breiman, "Statistical Modeling: The Two Cultures." (2021).](http://www2.math.uu.se/~thulin/mm/breiman.pdf) 
 
 ### Week 12
 * Learning Objectives: 
 * In Class-Exercises:
-* Suggested Reading: [J. Angwin, J. Larson, S. Mattu & L. Kirchner, "Machine Bias." (2016)](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing)
+* Suggested Reading: [E. Bender, T. Gebru, A. McMillan-Major & S. Shmitchell, "On the Dangers of Stochastic Parrots: Can Language Models Be Too Big? 🦜." (2021).](https://dl.acm.org/doi/10.1145/3442188.3445922) 
 
 ### Week 13
 * Learning Objectives: 
@@ -93,7 +101,7 @@ In what follows we provide a week-by-week plan including learning objectives, su
 ### Week 14
 * Learning Objectives: 
 * In Class-Exercises:
-* Suggested Reading:[E. Bender, T. Gebru, A. McMillan-Major & S. Shmitchell, "On the Dangers of Stochastic Parrots: Can Language Models Be Too Big? 🦜." (2021).](https://dl.acm.org/doi/10.1145/3442188.3445922)
+* Suggested Reading: [J. Angwin, J. Larson, S. Mattu & L. Kirchner, "Machine Bias." (2016)](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing)
 
 ## The Policy Project 
 ![](figures/ProjectRubric.png)
