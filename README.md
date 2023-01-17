@@ -86,28 +86,39 @@ In what follows we provide a week-by-week plan including learning objectives, ex
 
 #### Week 9
 * Learning Objectives: 
+  * Students will understand the meaning of mean, median, mode and variance of a dataset. 
+  * Students will compute descriptive statistics with Python and interpret the results.
+  * Students will execute clustering on a dataset using scikitlearn and the Gaussian mixture model class.
 * In Class-Exercises:
 * Suggested Reading: [FiveThirtyEight Staff, "Our 51 Best (And Weirdest) Charts Of 2021." (2021).](https://fivethirtyeight.com/features/our-51-best-and-weirdest-charts-of-2021/) 
 
 #### Week 10
 * Learning Objectives: 
+  * Students will split data into training and testing sets and understand the motivation for doing so.
+  * Students will train a logisitic regression classifier and tune parameters on an existing model.
+  * Students will assess model performance using confusion matrices and accuracy scores.
 * In Class-Exercises:
 * Suggested Reading: [J. Buolamwini & T. Gebru, "Gender Shades: Intersectional Accuracy Disparities in Commercial Gender Classification." (2018).](https://proceedings.mlr.press/v81/buolamwini18a/buolamwini18a.pdf)
 
 #### Week 11
 * Learning Objectives: 
+  * Students will understand the difference between supervised and unsupervised learning. 
+  * Students will train random forest and decision tree classifiers and tune parameters on existing models.
+  * Students will demonstrate knowledge of model classes by selecting an appropriate model class for their own dataset.
 * In Class-Exercises:
 * Suggested Reading: [L. Breiman, "Statistical Modeling: The Two Cultures." (2021).](http://www2.math.uu.se/~thulin/mm/breiman.pdf) 
 
 #### Week 12
 * Learning Objectives: 
+  * Students will understand the basics of linear regression, including approrpiate use cases.
+  * Students will analyze and interpret coefficients and feature importance across model classes.
 * In Class-Exercises:
 * Suggested Reading: [E. Bender, T. Gebru, A. McMillan-Major & S. Shmitchell, "On the Dangers of Stochastic Parrots: Can Language Models Be Too Big? 🦜." (2021).](https://dl.acm.org/doi/10.1145/3442188.3445922) 
 
 #### Week 13
 * Learning Objectives: 
 * In Class-Exercises:
-* Suggested Reading: [Z.C. Lipton, "The Mythos of Model Interpretability." (2026).](https://arxiv.org/pdf/1606.03490.pdf)
+* Suggested Reading: [Z.C. Lipton, "The Mythos of Model Interpretability." (2017).](https://arxiv.org/pdf/1606.03490.pdf)
 
 #### Week 14
 * Learning Objectives: 
