@@ -4,7 +4,7 @@ _This course material was originally prepared by [Anna Haensch](https://annahaen
 
 ## Course Ouline
 
-This course is designed for a 14 week semester with two 80 minute class meetings per week. Here we present the main ideas of each module and week of instruction. 
+This course is designed for a 14 week semester with two 80 minute class meetings per week. Here we present the main topics and assement tools of each module.
 
 ![](figures/CourseOutline.png)
 
@@ -157,10 +157,10 @@ In what follows we provide a week-by-week plan including learning objectives, ex
 A core throughline of this course is the policy project.  There are various checkpoints and benchmarks throughout the semester.  This project culminates with a final policy paper due at the end of the semester, as well as an in-class presentation of key findings and takeaways.  The critical checkpoints through the semester are as follows:
 * __Statement of Policy Question__: Students will develop 2-3 possible policy questions to explore throughout the semester.  A brief explanation of each question will be given to give context to non-experts, and students will identify possible types of data that might be useful.  
 * __Identification of Datasets of Interest__:  Students will choose one policy question of focus, and indentify 2-3 datasets that will help them answer this question.  Students will identify the steps necessary to acquire these datasets, but not necessarily carry these steps out (yet). 
-* __Draft Data Audit__: Students will gain an understanding of the datasets they are using, with the goal of making sure that their data is reusable, and their work is reproducible.  This is also a mechanism for understanding the origins of the data to help uncover bias.  Precise text of the data audit assignment can he found [here]().  
+* __Draft Data Audit__: Students will gain an understanding of the datasets they are using, with the goal of making sure that their data is reusable, and their work is reproducible.  This is also a mechanism for understanding the origins of the data to help uncover bias.  Precise text of the data audit assignment can he found [here](policy_project/data_audit_assignment.md).  
 * __Draft Data Visualization__: Students will use the knowledge gained in the data visualization module of the course to create at least one compelling visualization of their data.  Visualizations will be accompanied by ~100 word alt-text.
-* __Presentation__: Students will create a concise one-slide presentation highlighting key takeaways from the project and at leat one illustrative data visualization. Students will present this slide in conversation with the class.
-The rubric for the final policy paper and presentation is below.  
+* __Presentation__: Students will create a concise one-slide presentation highlighting key takeaways from the project and at leat one illustrative data visualization. Students will present this slide in conversation with the class. 
 * __Policy Paper__: Students will prepare a policy paper that specifically addresses their policy question.  This paper will include a narrative version of the data audit a methodology section that includes details of models used, a results section that discusses model output and validation, and a conclusion section that frames results in terms of the posed policy question. The rubric for the policy paper and presentation is below.
+
 ![](figures/ProjectRubric.png)
 
