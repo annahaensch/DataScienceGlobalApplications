@@ -20,7 +20,7 @@ In what follows we provide a week-by-week plan including learning objectives, ex
   * Students will execute their first Python code in Google Colab.
   * Students will understand the difference between the Python variable types.
 * In-Class Exercises: 
-  * [Intro to Python Basics Workbook](https://colab.research.google.com/drive/1LOQ58TVwgSLHTadxWIcJXjtujXFJ1Ks0?usp=sharing)
+  * [Intro to Python Basics Notebook](https://colab.research.google.com/drive/1LOQ58TVwgSLHTadxWIcJXjtujXFJ1Ks0?usp=sharing)
 * Suggested Reading: [d. boyd & K. Crawford, "Critical Questions for Big Data." (2012).](https://www.tandfonline.com/doi/full/10.1080/1369118X.2012.678878)
 
 #### Week 2
@@ -30,7 +30,7 @@ In what follows we provide a week-by-week plan including learning objectives, ex
   * Students will load and inspect data using pandas.
   * Students will execute for loops in Python.
 * In-Class Exercises: 
-  * [Intro to Dataframes Workbook]()
+  * [Intro to Dataframes Notebook]()
 * Suggested Reading:   [C. D’Ignazio & L. Klein, "6. The Numbers Don’t Speak for Themselves." In Data Feminism (2020).](https://data-feminism.mitpress.mit.edu/pub/czq9dfs5)
 
 
@@ -40,7 +40,7 @@ In what follows we provide a week-by-week plan including learning objectives, ex
   * Students will experiment with methods to mitigate the "missingness" of data and justify decisions regaring the same.
   * Students will manipulate and explore data with Python and pandas.
 * In-Class Exercises: 
-  * [Intro to Exploratory Data Analysis workbook]()
+  * [Intro to Exploratory Data Analysis Notebook]()
 * Suggested Reading: [C. D’Ignazio & L. Klein, “4. What Gets Counted Counts.” In Data Feminism (2020).](https://data-feminism.mitpress.mit.edu/pub/h1w0nbqp)
 
 #### Week 4
@@ -60,7 +60,7 @@ In what follows we provide a week-by-week plan including learning objectives, ex
   * Students will identify and discuss effective and ineffective uses of these principles in real world charts.
   * Students will have familiarity with the components of Matplotlib plots.
 * In Class-Exercises: 
-  * [Basics of Visualization with Matplotlib]()
+  * [Basics of Visualization with Matplotlib Notebook]()
 * Suggested Reading: [C.O. Wilke, "Fundamentals of Data Visualization, Part I." (2019).](https://clauswilke.com/dataviz/)
 
 #### Week 6
@@ -69,7 +69,7 @@ In what follows we provide a week-by-week plan including learning objectives, ex
   * Students will differentiate between qualitative and sequential color scales and identify use cases for each. 
   * Students will become familiar with mapping tools in Geopandas.
 * In Class-Exercises:
-  * [Mapping with Geopandas and Matplotlib Workbook]()
+  * [Mapping with Geopandas and Matplotlib Notebook]()
 * Suggested Reading: [C. Weaver, "The Unmitigated Chaos of America’s Attempt at Color-Coded Covid Guidance" (2021)](https://www.nytimes.com/2021/04/02/style/coronavirus-safety-colors-states.html) 
 
 #### Week 7
@@ -79,7 +79,7 @@ In what follows we provide a week-by-week plan including learning objectives, ex
   * Students will maniplulate labels and annotation on existing plots.
   * Students will become familiar with less common plot classes such as radial plots and heatmaps.
 * In Class-Exercises:
-  * [Fancy Plots with Matplolib Workbook]()
+  * [Fancy Plots with Matplolib Notebook]()
 * Suggested Reading: [C.O. Wilke, "Fundamentals of Data Visualization, Part II." (2019).](https://clauswilke.com/dataviz/)
 
 #### Week 8
@@ -96,7 +96,7 @@ In what follows we provide a week-by-week plan including learning objectives, ex
   * Students will recognize the unifying structure of data models in Scikitlearn.
   * Students will perform Gaussian mixture model clustering and tune parameters on an existing model.
 * In Class-Exercises:
-  * [Descriptive Statistics and Gaussian Clustering Workbook]()
+  * [Descriptive Statistics and Gaussian Clustering Notebook]()
 * Suggested Reading: [FiveThirtyEight Staff, "Our 51 Best (And Weirdest) Charts Of 2021." (2021).](https://fivethirtyeight.com/features/our-51-best-and-weirdest-charts-of-2021/) 
 
 #### Week 10
@@ -105,7 +105,7 @@ In what follows we provide a week-by-week plan including learning objectives, ex
   * Students will train a logisitic regression classifier and tune parameters on an existing model.
   * Students will assess model performance using confusion matrices and accuracy scores.
 * In Class-Exercises:
-  * [Logistic Regression Workbook]()
+  * [Logistic Regression Notebook]()
 * Suggested Reading: [J. Buolamwini & T. Gebru, "Gender Shades: Intersectional Accuracy Disparities in Commercial Gender Classification." (2018).](https://proceedings.mlr.press/v81/buolamwini18a/buolamwini18a.pdf)
 
 #### Week 11
@@ -114,7 +114,7 @@ In what follows we provide a week-by-week plan including learning objectives, ex
   * Students will train decision tree and random forest classifiers and tune parameters on existing models.
   * Students will demonstrate knowledge of model classes by selecting an appropriate model class for their own dataset.
 * In Class-Exercises:
-  * [Decision Tree Workbook]()
+  * [Decision Tree Notebook]()
 * Suggested Reading: [L. Breiman, "Statistical Modeling: The Two Cultures." (2021).](http://www2.math.uu.se/~thulin/mm/breiman.pdf) 
 
 #### Week 12
@@ -122,8 +122,7 @@ In what follows we provide a week-by-week plan including learning objectives, ex
   * Students will train a linear regression model and understand the use cases of regression models.
   * Students will analyze and interpret coefficients and feature importance across model classes.
 * In Class-Exercises: 
-  * [Linear Regression Workbook]()
-  * [Model Interpretation Workbook]()
+  * [Linear Regression Notebook]()
 * Suggested Reading: [E. Bender, T. Gebru, A. McMillan-Major & S. Shmitchell, "On the Dangers of Stochastic Parrots: Can Language Models Be Too Big? 🦜." (2021).](https://dl.acm.org/doi/10.1145/3442188.3445922) 
 
 #### Week 13
