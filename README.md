@@ -22,8 +22,8 @@ In what follows we provide a week-by-week plan including learning objectives, su
 ### Week 2
 
 * Learning Objectives: 
-  * Students will learn how to execute for loops in Python.
-  * Students will learn how to load and inspect data using pandas.
+  * Students will execute for loops in Python.
+  * Students will load and inspect data using pandas.
   * Students will be able to critique the assumptions and decisions that go into preliminary data acquisition and analysis.
 * In-Class Exercises: [Intro to Dataframes Workbook]()
 * Suggested Reading:   [C. D’Ignazio & L. Klein, "6. The Numbers Don’t Speak for Themselves." In Data Feminism (2020).](https://data-feminism.mitpress.mit.edu/pub/czq9dfs5)
@@ -32,9 +32,9 @@ In what follows we provide a week-by-week plan including learning objectives, su
   
 ### Week 3
 * Learning Objectives: 
-  * Students will learn the basics of manipulating and exploring data with Python and pandas.
-  * Students will learn how to assess, interogate, and mitigate the "missingness" of data and justify decisions regaring the same.
-  * Students will be able to contexutalize data and the absence of data withing social, political, and economic contexts.
+  * Students will manipulate and explore data with Python and pandas.
+  * Students will assess, interogate, and mitigate the "missingness" of data and justify decisions regaring the same.
+  * Students will contexutalize data and the absence of data withing social, political, and economic contexts.
 * In-Class Exercises: [Intro to Exploratory Data Analysis workbook]()
 * Suggested Reading: [C. D’Ignazio & L. Klein, “4. What Gets Counted Counts.” In Data Feminism (2020).](https://data-feminism.mitpress.mit.edu/pub/h1w0nbqp)
 
