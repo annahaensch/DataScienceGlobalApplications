@@ -15,16 +15,17 @@ In what follows we provide a week-by-week plan including learning objectives, su
 ### Week 1
 
 * Learning Objectives: 
-  * Students will learn the basics of Python variables using Google Colab Notebooks.
+  * Students will execute their first Python code in Google Colab.
+  * Students will understand the difference between Python variable types.
 * In-Class Exercises: [Intro to Python Basics Workbook](https://colab.research.google.com/drive/1LOQ58TVwgSLHTadxWIcJXjtujXFJ1Ks0?usp=sharing)
 * Suggested Reading: [d. boyd & K. Crawford, "Critical Questions for Big Data." (2012).](https://www.tandfonline.com/doi/full/10.1080/1369118X.2012.678878)
 
 ### Week 2
 
 * Learning Objectives: 
+  * Students will critique the assumptions and decisions that go into preliminary data acquisition and analysis.
   * Students will execute for loops in Python.
   * Students will load and inspect data using pandas.
-  * Students will be able to critique the assumptions and decisions that go into preliminary data acquisition and analysis.
 * In-Class Exercises: [Intro to Dataframes Workbook]()
 * Suggested Reading:   [C. D’Ignazio & L. Klein, "6. The Numbers Don’t Speak for Themselves." In Data Feminism (2020).](https://data-feminism.mitpress.mit.edu/pub/czq9dfs5)
 
@@ -32,40 +33,42 @@ In what follows we provide a week-by-week plan including learning objectives, su
   
 ### Week 3
 * Learning Objectives: 
+  * Students will contextualize data and the absence of data withing social, political, and economic contexts.
+  * Students will experiment with methods to mitigate the "missingness" of data and justify decisions regaring the same.
   * Students will manipulate and explore data with Python and pandas.
-  * Students will assess, interogate, and mitigate the "missingness" of data and justify decisions regaring the same.
-  * Students will contexutalize data and the absence of data withing social, political, and economic contexts.
 * In-Class Exercises: [Intro to Exploratory Data Analysis workbook]()
 * Suggested Reading: [C. D’Ignazio & L. Klein, “4. What Gets Counted Counts.” In Data Feminism (2020).](https://data-feminism.mitpress.mit.edu/pub/h1w0nbqp)
 
 ### Week 4
 * Learning Objectives: 
-  * Students will set up their local computing environment and develop comfort with command line prompts.
-  * Students will transition to using Python in Jupyter Labs instead of Google Colab.
+  * Students will set up their local Python computing environment 
+  * Students will execute command line prompts.
+  * Students will transition to using Python locally in Jupyter Labs.
 * In Class-Exercises:
 * Suggested Reading: [T. Gillespie, "The Relevance of Algorithms." (2013).](https://www.microsoft.com/en-us/research/wp-content/uploads/2014/01/Gillespie_2014_The-Relevance-of-Algorithms.pdf)
 
 ### Week 5
 * Learning Objectives: 
-  * Students will understand the fundamentals of good data visualization, including the principle of proportional ink and chart junk.
-  * Students will identify and discuss effective and ineffective uses of the principle of proportional ink in real world charts.
-  * Students will have famiarity with components of Matplotlib plots, such as axes and figures.
+  * Students will understand the fundamentals of data visualization, including the principle of proportional ink and chart junk.
+  * Students will identify and discuss effective and ineffective uses of these principles in real world charts.
+  * Students will have familiarity with components of Matplotlib plots, such as axes and figures.
 * In Class-Exercises: [Basics of Visualization with Matplotlib]
 * Suggested Reading: [C.O. Wilke, "Fundamentals of Data Visualization, Part I." (2019).](https://clauswilke.com/dataviz/)
 
 ### Week 6
 * Learning Objectives: 
   * Students will understand the importance of color in data visualization. 
-  * between will be able to differentiate between qualitative and sequential color scales and identify use cases for each. 
+  * Students will be able to differentiate between qualitative and sequential color scales and identify use cases for each. 
   * Students will gain basic familiarity with mapping tools in Geopandas.
 * In Class-Exercises:
 * Suggested Reading: [C. Weaver, "The Unmitigated Chaos of America’s Attempt at Color-Coded Covid Guidance" (2021)](https://www.nytimes.com/2021/04/02/style/coronavirus-safety-colors-states.html) 
 
 ### Week 7
 * Learning Objectives: 
-  * Students will recognize the importance and impact of labels and annotation in plotting and will understand how to deploy these tools.
-  * Students will identify and discuss effective and ineffective uses of chart annotation in real world charts.
-  * Students will beccome familiar with less common plot classes such as radial plots and heatmaps.
+  * Students will recognize the importance and impact of labels and annotation in plotting.
+  * Students will identify and discuss effective and ineffective uses of annotation in real world charts.
+  * Students will maniplulate labels and annotation on existing plots.
+  * Students will become familiar with less common plot classes such as radial plots and heatmaps.
 * In Class-Exercises:
 * Suggested Reading: [C.O. Wilke, "Fundamentals of Data Visualization, Part II." (2019).](https://clauswilke.com/dataviz/)
 
