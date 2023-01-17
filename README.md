@@ -110,7 +110,7 @@ In what follows we provide a week-by-week plan including learning objectives, ex
 
 #### Week 12
 * Learning Objectives: 
-  * Students will understand the basics of linear regression, including approrpiate use cases.
+  * Students will train a linear regression model and understand the use cases of regression models.
   * Students will analyze and interpret coefficients and feature importance across model classes.
 * In Class-Exercises:
 * Suggested Reading: [E. Bender, T. Gebru, A. McMillan-Major & S. Shmitchell, "On the Dangers of Stochastic Parrots: Can Language Models Be Too Big? 🦜." (2021).](https://dl.acm.org/doi/10.1145/3442188.3445922) 
