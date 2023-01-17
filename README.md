@@ -138,5 +138,13 @@ In what follows we provide a week-by-week plan including learning objectives, ex
 * Suggested Reading: [J. Angwin, J. Larson, S. Mattu & L. Kirchner, "Machine Bias." (2016)](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing)
 
 ## The Policy Project 
+
+A core throughline of this course is the policy project.  There are various checkpoints and benchmarks throughout the semester.  This project culminates with a final policy paper due at the end of the semester, as well as an in-class presentation of key findings and takeaways.  The critical checkpoints through the semester are as follows:
+* __Statement of Policy Question__: Students will develop 2-3 possible policy questions to explore throughout the semester.  A brief explanation of each question will be given to give context to non-experts, and students will identify possible types of data that might be useful.  
+* __Identification of Datasets of Interest__:  Students will choose one policy question of focus, and indentify 2-3 datasets that will help them answer this question.  Students will identify the steps necessary to acquire these datasets, but not necessarily carry these steps out (yet). 
+* __Draft Data Audit__: Students will gain an understanding of the datasets they are using, with the goal of making sure that their data is reusable, and their work is reproducible.  This is also a mechanism for understanding the origins of the data to help uncover bias.  Precise text of the data audit assignment can he found [here]().  
+* __Draft Data Visualization__: Students will use the knowledge gained in the data visualization module of the course to create at least one compelling visualization of their data.  Visualizations will be accompanied by ~100 word alt-text.
+
+The rubric for the final policy paper and presentation is below.  
 ![](figures/ProjectRubric.png)
 
