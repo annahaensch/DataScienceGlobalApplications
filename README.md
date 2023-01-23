@@ -31,7 +31,7 @@ In what follows we provide a week-by-week plan including learning objectives, ex
   * Students will load and inspect data using pandas.
   * Students will execute for loops in Python.
 * In-Class Exercises: 
-  * [Intro to Dataframes Notebook]()
+  * [Intro to Dataframes Notebook](https://colab.research.google.com/drive/1eWFprcL9b9UVu5bNC0AxphbViQ03wIET?usp=sharing)
 * Suggested Reading:   
   * [C. D’Ignazio & L. Klein, "6. The Numbers Don’t Speak for Themselves." In Data Feminism (2020).](https://data-feminism.mitpress.mit.edu/pub/czq9dfs5)
 
@@ -42,7 +42,7 @@ In what follows we provide a week-by-week plan including learning objectives, ex
   * Students will experiment with methods to mitigate the "missingness" of data and justify decisions regaring the same.
   * Students will manipulate and explore data with Python and pandas.
 * In-Class Exercises: 
-  * [Intro to Exploratory Data Analysis Notebook]()
+  * [Intro to Exploratory Data Analysis Notebook](https://colab.research.google.com/drive/13b_kizsDNtk5_Gy2Vi-GqGgiTRkfOgls?usp=sharing)
 * Suggested Reading: 
   * [C. D’Ignazio & L. Klein, “4. What Gets Counted Counts.” In Data Feminism (2020).](https://data-feminism.mitpress.mit.edu/pub/h1w0nbqp)
   * [H. Krause, "Data Biographies: Getting to Know Your Data" (2017)](https://gijn.org/2017/03/27/data-biographies-getting-to-know-your-data/)
