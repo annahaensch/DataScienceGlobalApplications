@@ -22,6 +22,7 @@ In what follows we provide a week-by-week plan including learning objectives, ex
 * In-Class Exercises: 
   * [Intro to Python Basics Notebook](https://colab.research.google.com/drive/1LOQ58TVwgSLHTadxWIcJXjtujXFJ1Ks0?usp=sharing)
 * Suggested Reading: 
+  * [A. Boyd et al., "Data Diplomacy" (2019).](https://www.sciencediplomacy.org/article/2019/data-diplomacy)
   * [d. boyd & K. Crawford, "Critical Questions for Big Data." (2012).](https://www.tandfonline.com/doi/full/10.1080/1369118X.2012.678878)
 
 #### Week 2
@@ -33,6 +34,7 @@ In what follows we provide a week-by-week plan including learning objectives, ex
 * In-Class Exercises: 
   * [Intro to Dataframes Notebook](https://colab.research.google.com/drive/1eWFprcL9b9UVu5bNC0AxphbViQ03wIET?usp=sharing)
 * Suggested Reading:   
+  * [R. Chambers, "Editorial: Responsible Well-Being - A Personal Agenda for Development" (1997).](https://www.sciencedirect.com/science/article/abs/pii/S0305750X97100018)
   * [C. D’Ignazio & L. Klein, "6. The Numbers Don’t Speak for Themselves." In Data Feminism (2020).](https://data-feminism.mitpress.mit.edu/pub/czq9dfs5)
 
 
