@@ -6,7 +6,7 @@ _This course material was originally prepared by [Anna Haensch](https://annahaen
 
 This course is designed for a 14 week semester with two 80 minute class meetings per week. Here we present the main topics and assement tools of each module.
 
-![](figures/CourseOutline.png)
+![https://github.com/annahaensch/DataScienceGlobalApplications/blob/main/figures/CourseOutline.png](figures/CourseOutline.png)
 
 ## Weekly Planner
 
@@ -164,5 +164,5 @@ A core throughline of this course is the policy project.  There are various chec
 * __Presentation__: Students will create a concise one-slide presentation highlighting key takeaways from the project and at leat one illustrative data visualization. Students will present this slide in conversation with the class. 
 * __Policy Paper__: Students will prepare a policy paper that specifically addresses their policy question.  This paper will include a "Data Overview" section which contains a narrative version of the data audit a "Methodology" section that includes details of models used, a "Results" section that discusses model output and validation, and a "Conclusions" section that frames results in terms of the posed policy question. The rubric for the policy paper and presentation is below.
 
-![](figures/ProjectRubric.png)
+![https://github.com/annahaensch/DataScienceGlobalApplications/blob/main/figures/ProjectRubric.png](figures/ProjectRubric.png)
 
