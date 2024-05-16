@@ -3,3 +3,9 @@ title: [Data Science for Global Applications]
 logo: figures/network.png
 description: [Studying data science in context for diplomacy and global affairs.]
 url: https://annahaensch.github.io/
+sidebar:
+  - label: Section One
+    children:
+      - document-one
+      - document-two
+      - document-three
