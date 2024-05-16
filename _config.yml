@@ -4,8 +4,8 @@ logo: figures/network.png
 description: [Studying data science in context for diplomacy and global affairs.]
 url: https://annahaensch.github.io/
 sidebar:
-  - label: Section One
+  - label: Weekly-Planner
     children:
-      - document-one
-      - document-two
-      - document-three
+      - week-one
+      - week-two
+      - week-three
