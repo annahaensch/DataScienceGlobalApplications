@@ -18,7 +18,7 @@ In what follows we provide a week-by-week plan including learning objectives, ex
   * Students will execute their first Python code in Google Colab.
   * Students will understand the difference between the Python variable types.
 * In-Class Exercises: 
-  * [Workbook 1: Intro to Python Basics Notebook](https://colab.research.google.com/drive/19UEtjbOnGl_PKZQpEGLXIb-ZtFkcDGC6?usp=sharing)
+  * [Workbook 1: Intro to Python Basics](https://colab.research.google.com/drive/19UEtjbOnGl_PKZQpEGLXIb-ZtFkcDGC6?usp=sharing)
   * [Workbook 2: Lists and For Loops](https://colab.research.google.com/drive/1HTa4d3A9aVY8dKf2M0XKDDyUENVBeDzO?usp=sharing)
 * Suggested Reading: 
   * [A. Boyd et al., "Data Diplomacy" (2019).](https://www.sciencediplomacy.org/article/2019/data-diplomacy)
