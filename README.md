@@ -12,12 +12,8 @@ In what follows we provide a week-by-week plan including learning objectives, ex
 
 ### Module I: Getting and Cleaning Data
 
-[Workbook 1: Intro to Python Basics Notebook](https://colab.research.google.com/drive/19UEtjbOnGl_PKZQpEGLXIb-ZtFkcDGC6?usp=sharing)
-[Workbook 2: Lists and For Loops](https://colab.research.google.com/drive/1HTa4d3A9aVY8dKf2M0XKDDyUENVBeDzO?usp=sharing)
-[Workbook 3: Getting Started with Dataframes](https://colab.research.google.com/drive/1BI4BHe6sYV3jc1xYfq4TbHq5mxk59fII?usp=sharing)
-[Workbook 4: Loading and Exploring Data](https://colab.research.google.com/drive/1b-UNiNpULEmti02VFKOhHcWhMwCvT-Ty?usp=sharing)
-[Workbook 5: Dealing with Missing Data](https://colab.research.google.com/drive/1boDtPc0BsMbXpGvup_Bd6isVLNxIlqWm?usp=sharing)
-[Workbook 6: Missing Sequential Data](https://colab.research.google.com/drive/1XMnysmt1phBGtNzWxGqoExAr1oa0IQwl?usp=sharing)
+
+
 [Workbook 7: Intro to Plotting](https://colab.research.google.com/drive/1avcYh6MmMlkBE19iyAhl7s-Uj95UIYkC?usp=sharing)
 [Workbook 8: Mapping and Geocoding](https://colab.research.google.com/drive/1ZSgkiIMcjN9vdk76ir6aKnSU7ZDLxbYj?usp=sharing)
 [Workbook 9: Wother Ways to Plot](https://colab.research.google.com/drive/1ZSgkiIMcjN9vdk76ir6aKnSU7ZDLxbYj?usp=sharing)
@@ -33,7 +29,7 @@ In what follows we provide a week-by-week plan including learning objectives, ex
   * Students will understand the difference between the Python variable types.
 * In-Class Exercises: 
   * [Workbook 1: Intro to Python Basics Notebook](https://colab.research.google.com/drive/19UEtjbOnGl_PKZQpEGLXIb-ZtFkcDGC6?usp=sharing)
-  * [Workbook 2: Lists and For Loops(https://colab.research.google.com/drive/1HTa4d3A9aVY8dKf2M0XKDDyUENVBeDzO?usp=sharing)
+  * [Workbook 2: Lists and For Loops](https://colab.research.google.com/drive/1HTa4d3A9aVY8dKf2M0XKDDyUENVBeDzO?usp=sharing)
 * Suggested Reading: 
   * [A. Boyd et al., "Data Diplomacy" (2019).](https://www.sciencediplomacy.org/article/2019/data-diplomacy)
   * [d. boyd & K. Crawford, "Critical Questions for Big Data." (2012).](https://www.tandfonline.com/doi/full/10.1080/1369118X.2012.678878)
@@ -45,7 +41,8 @@ In what follows we provide a week-by-week plan including learning objectives, ex
   * Students will load and inspect data using pandas.
   * Students will execute for loops in Python.
 * In-Class Exercises: 
-  * [Intro to Dataframes Notebook](https://colab.research.google.com/drive/1eWFprcL9b9UVu5bNC0AxphbViQ03wIET?usp=sharing)
+  * [Workbook 3: Getting Started with Dataframes](https://colab.research.google.com/drive/1BI4BHe6sYV3jc1xYfq4TbHq5mxk59fII?usp=sharing)
+  * [Workbook 4: Loading and Exploring Data](https://colab.research.google.com/drive/1b-UNiNpULEmti02VFKOhHcWhMwCvT-Ty?usp=sharing)
 * Suggested Reading:   
   * [R. Chambers, "Editorial: Responsible Well-Being - A Personal Agenda for Development" (1997).](https://www.sciencedirect.com/science/article/abs/pii/S0305750X97100018)
   * [C. D’Ignazio & L. Klein, "6. The Numbers Don’t Speak for Themselves." In Data Feminism (2020).](https://data-feminism.mitpress.mit.edu/pub/czq9dfs5)
@@ -57,7 +54,7 @@ In what follows we provide a week-by-week plan including learning objectives, ex
   * Students will experiment with methods to mitigate the "missingness" of data and justify decisions regaring the same.
   * Students will manipulate and explore data with Python and pandas.
 * In-Class Exercises: 
-  * [Intro to Exploratory Data Analysis Notebook](https://colab.research.google.com/drive/13b_kizsDNtk5_Gy2Vi-GqGgiTRkfOgls?usp=sharing)
+  * [Workbook 5: Dealing with Missing Data](https://colab.research.google.com/drive/1boDtPc0BsMbXpGvup_Bd6isVLNxIlqWm?usp=sharing)
 * Suggested Reading: 
   * [C. D’Ignazio & L. Klein, “4. What Gets Counted Counts.” In Data Feminism (2020).](https://data-feminism.mitpress.mit.edu/pub/h1w0nbqp)
   * [H. Krause, "Data Biographies: Getting to Know Your Data" (2017)](https://gijn.org/2017/03/27/data-biographies-getting-to-know-your-data/)
@@ -68,7 +65,7 @@ In what follows we provide a week-by-week plan including learning objectives, ex
   * Students will execute command line prompts.
   * Students will transition to using Python locally in Jupyter Labs.
 * In Class-Exercises:
-  * [Instructions for Setting Up your Computing Environment]
+  * [Workbook 6: Missing Sequential Data](https://colab.research.google.com/drive/1XMnysmt1phBGtNzWxGqoExAr1oa0IQwl?usp=sharing)
 * Suggested Reading: 
   * [T. Gillespie, "The Relevance of Algorithms." (2013).](https://www.microsoft.com/en-us/research/wp-content/uploads/2014/01/Gillespie_2014_The-Relevance-of-Algorithms.pdf)
 
