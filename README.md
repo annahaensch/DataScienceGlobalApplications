@@ -12,16 +12,6 @@ In what follows we provide a week-by-week plan including learning objectives, ex
 
 ### Module I: Getting and Cleaning Data
 
-
-
-[Workbook 7: Intro to Plotting](https://colab.research.google.com/drive/1avcYh6MmMlkBE19iyAhl7s-Uj95UIYkC?usp=sharing)
-[Workbook 8: Mapping and Geocoding](https://colab.research.google.com/drive/1ZSgkiIMcjN9vdk76ir6aKnSU7ZDLxbYj?usp=sharing)
-[Workbook 9: Wother Ways to Plot](https://colab.research.google.com/drive/1ZSgkiIMcjN9vdk76ir6aKnSU7ZDLxbYj?usp=sharing)
-[Workbook 10: Classification](https://colab.research.google.com/drive/1eSU7TkE3fT651JvXwwI5vQQGB7TF1lP0?usp=sharing)
-[Workbook 11: Clustering](https://colab.research.google.com/drive/12HIVoYTmRG8GeRlTQl-GpH1UpAYC4R8g?usp=sharing)
-[Workbook 12: Linear Regression](https://colab.research.google.com/drive/1xge3kilzT4E3thf1MlriZuPIUykuyy6i?usp=sharing)
-[Workbook 13: Neural Networks](https://colab.research.google.com/drive/1CuaRhf-qdJPnK05TTFVl6dq-UYTT_y4D?usp=sharing)
-
 #### Week 1
 
 * Learning Objectives: 
@@ -77,7 +67,7 @@ In what follows we provide a week-by-week plan including learning objectives, ex
   * Students will identify and discuss effective and ineffective uses of these principles in real world charts.
   * Students will have familiarity with the components of Matplotlib plots.
 * In Class-Exercises: 
-  * [Basics of Visualization with Matplotlib Notebook]()
+  * [Workbook 7: Intro to Plotting](https://colab.research.google.com/drive/1avcYh6MmMlkBE19iyAhl7s-Uj95UIYkC?usp=sharing)
 * Suggested Reading: 
   * [C.O. Wilke, "Fundamentals of Data Visualization, Part I." (2019).](https://clauswilke.com/dataviz/)
 
@@ -87,7 +77,7 @@ In what follows we provide a week-by-week plan including learning objectives, ex
   * Students will differentiate between qualitative and sequential color scales and identify use cases for each. 
   * Students will become familiar with mapping tools in Geopandas.
 * In Class-Exercises:
-  * [Mapping with Geopandas and Matplotlib Notebook]()
+  * [Workbook 8: Mapping and Geocoding](https://colab.research.google.com/drive/1ZSgkiIMcjN9vdk76ir6aKnSU7ZDLxbYj?usp=sharing)
 * Suggested Reading: 
   * [C. Weaver, "The Unmitigated Chaos of America’s Attempt at Color-Coded Covid Guidance" (2021)](https://www.nytimes.com/2021/04/02/style/coronavirus-safety-colors-states.html) 
 
@@ -99,7 +89,7 @@ In what follows we provide a week-by-week plan including learning objectives, ex
   * Students will maniplulate labels and annotation on existing plots.
   * Students will become familiar with less common plot classes such as radial plots and heatmaps.
 * In Class-Exercises:
-  * [Fancy Plots with Matplolib Notebook]()
+  * [Workbook 9: Wother Ways to Plot](https://colab.research.google.com/drive/1ZSgkiIMcjN9vdk76ir6aKnSU7ZDLxbYj?usp=sharing)
 * Suggested Reading: 
   * [C.O. Wilke, "Fundamentals of Data Visualization, Part II." (2019).](https://clauswilke.com/dataviz/)
 
@@ -116,38 +106,40 @@ In what follows we provide a week-by-week plan including learning objectives, ex
 * Learning Objectives: 
   * Students will compute descriptive statistics with Python and interpret the results.
   * Students will recognize the unifying structure of data models in Scikitlearn.
-  * Students will perform Gaussian mixture model clustering and tune parameters on an existing model.
+  * Students will train k-nearest neighbor and logistic regression classification models.
+  * Students will assess model performance using confusion matrices and accuracy scores.
 * In Class-Exercises:
-  * [Descriptive Statistics and Gaussian Clustering Notebook]()
+  * [Workbook 10: Classification](https://colab.research.google.com/drive/1eSU7TkE3fT651JvXwwI5vQQGB7TF1lP0?usp=sharing)
 * Suggested Reading: 
   * [L. Breiman, "Statistical Modeling: The Two Cultures." (2021).](http://www2.math.uu.se/~thulin/mm/breiman.pdf) 
 
 #### Week 10
-* Learning Objectives: 
+* Learning Objectives:
+  * Students will understand the difference between supervised and unsupervised learning. 
   * Students will split data into training and testing sets and understand the motivation for doing so.
-  * Students will train a logisitic regression classifier and tune parameters on an existing model.
-  * Students will assess model performance using confusion matrices and accuracy scores.
+  * Students will train Gaussian mixture model and k-means clustering models.
 * In Class-Exercises:
-  * [Logistic Regression Notebook]()
+  * [Workbook 11: Clustering](https://colab.research.google.com/drive/12HIVoYTmRG8GeRlTQl-GpH1UpAYC4R8g?usp=sharing)
 * Suggested Reading: 
   * [J. Buolamwini & T. Gebru, "Gender Shades: Intersectional Accuracy Disparities in Commercial Gender Classification." (2018).](https://proceedings.mlr.press/v81/buolamwini18a/buolamwini18a.pdf)
 
 #### Week 11
 * Learning Objectives: 
-  * Students will understand the difference between supervised and unsupervised learning. 
-  * Students will train decision tree and random forest classifiers and tune parameters on existing models.
-  * Students will demonstrate knowledge of model classes by selecting an appropriate model class for their own dataset.
+  * Students will gain experience looking at data and choosing the appropriate modeling class.
+  * Students will train a linear regression model and understand the use cases of regression models.
+  * Students will analyze and interpret coefficients and feature importance across model classes.
 * In Class-Exercises:
-  * [Decision Tree Notebook]()
+  * [Workbook 12: Linear Regression](https://colab.research.google.com/drive/1xge3kilzT4E3thf1MlriZuPIUykuyy6i?usp=sharing)
 * Suggested Reading: 
   * [J. Angwin, J. Larson, S. Mattu & L. Kirchner, "Machine Bias." (2016)](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing)
 
 #### Week 12
 * Learning Objectives: 
-  * Students will train a linear regression model and understand the use cases of regression models.
-  * Students will analyze and interpret coefficients and feature importance across model classes.
+  * Students will understand the terminology AI, machine learning, neural networks, and deep learning.
+  * Students will train a neural network model.
+  * Students will become familiar with generative modeling concepts.
 * In Class-Exercises: 
-  * [Linear Regression Notebook]()
+  * [Workbook 13: Neural Networks](https://colab.research.google.com/drive/1CuaRhf-qdJPnK05TTFVl6dq-UYTT_y4D?usp=sharing)
 * Suggested Reading: 
   * [E. Bender, T. Gebru, A. McMillan-Major & S. Shmitchell, "On the Dangers of Stochastic Parrots: Can Language Models Be Too Big? 🦜." (2021).](https://dl.acm.org/doi/10.1145/3442188.3445922) 
 
