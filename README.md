@@ -12,13 +12,28 @@ In what follows we provide a week-by-week plan including learning objectives, ex
 
 ### Module I: Getting and Cleaning Data
 
+[Workbook 1: Intro to Python Basics Notebook](https://colab.research.google.com/drive/19UEtjbOnGl_PKZQpEGLXIb-ZtFkcDGC6?usp=sharing)
+[Workbook 2: Lists and For Loops](https://colab.research.google.com/drive/1HTa4d3A9aVY8dKf2M0XKDDyUENVBeDzO?usp=sharing)
+[Workbook 3: Getting Started with Dataframes](https://colab.research.google.com/drive/1BI4BHe6sYV3jc1xYfq4TbHq5mxk59fII?usp=sharing)
+[Workbook 4: Loading and Exploring Data](https://colab.research.google.com/drive/1b-UNiNpULEmti02VFKOhHcWhMwCvT-Ty?usp=sharing)
+[Workbook 5: Dealing with Missing Data](https://colab.research.google.com/drive/1boDtPc0BsMbXpGvup_Bd6isVLNxIlqWm?usp=sharing)
+[Workbook 6: Missing Sequential Data](https://colab.research.google.com/drive/1XMnysmt1phBGtNzWxGqoExAr1oa0IQwl?usp=sharing)
+[Workbook 7: Intro to Plotting](https://colab.research.google.com/drive/1avcYh6MmMlkBE19iyAhl7s-Uj95UIYkC?usp=sharing)
+[Workbook 8: Mapping and Geocoding](https://colab.research.google.com/drive/1ZSgkiIMcjN9vdk76ir6aKnSU7ZDLxbYj?usp=sharing)
+[Workbook 9: Wother Ways to Plot](https://colab.research.google.com/drive/1ZSgkiIMcjN9vdk76ir6aKnSU7ZDLxbYj?usp=sharing)
+[Workbook 10: Classification](https://colab.research.google.com/drive/1eSU7TkE3fT651JvXwwI5vQQGB7TF1lP0?usp=sharing)
+[Workbook 11: Clustering](https://colab.research.google.com/drive/12HIVoYTmRG8GeRlTQl-GpH1UpAYC4R8g?usp=sharing)
+[Workbook 12: Linear Regression](https://colab.research.google.com/drive/1xge3kilzT4E3thf1MlriZuPIUykuyy6i?usp=sharing)
+[Workbook 13: Neural Networks](https://colab.research.google.com/drive/1CuaRhf-qdJPnK05TTFVl6dq-UYTT_y4D?usp=sharing)
+
 #### Week 1
 
 * Learning Objectives: 
   * Students will execute their first Python code in Google Colab.
   * Students will understand the difference between the Python variable types.
 * In-Class Exercises: 
-  * [Intro to Python Basics Notebook](https://colab.research.google.com/drive/1LOQ58TVwgSLHTadxWIcJXjtujXFJ1Ks0?usp=sharing)
+  * [Workbook 1: Intro to Python Basics Notebook](https://colab.research.google.com/drive/19UEtjbOnGl_PKZQpEGLXIb-ZtFkcDGC6?usp=sharing)
+  * [Workbook 2: Lists and For Loops(https://colab.research.google.com/drive/1HTa4d3A9aVY8dKf2M0XKDDyUENVBeDzO?usp=sharing)
 * Suggested Reading: 
   * [A. Boyd et al., "Data Diplomacy" (2019).](https://www.sciencediplomacy.org/article/2019/data-diplomacy)
   * [d. boyd & K. Crawford, "Critical Questions for Big Data." (2012).](https://www.tandfonline.com/doi/full/10.1080/1369118X.2012.678878)
