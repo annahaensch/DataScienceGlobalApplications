@@ -1,4 +1,4 @@
-_This course material was originally prepared by [Anna Haensch](https://annahaensch.com/) and [Karin Knudson](https://karinknudson.com/) and at the Fletcher Graduate School of Global Affairs at Tufts University.  We wrote about some of our motivations and methodology for the 2022 SciPy Conference Proceedings in ["Python for Global Applications: teaching scientific Python in context to law and diplomacy students"](https://conference.scipy.org/proceedings/scipy2022/anna_haensch.html)_.
+_This course material was originally prepared by [Anna Haensch](https://annahaensch.com/) and [Karin Knudson](https://karinknudson.com/) at the Fletcher Graduate School of Global Affairs at Tufts University.  We wrote about some of our motivations and methodology for the 2022 SciPy Conference Proceedings in ["Python for Global Applications: teaching scientific Python in context to law and diplomacy students"](https://conference.scipy.org/proceedings/scipy2022/anna_haensch.html)_.
 
 ## Course Ouline
 
@@ -175,3 +175,6 @@ A core throughline of this course is the policy project.  There are various chec
 
 ![https://github.com/annahaensch/DataScienceGlobalApplications/blob/main/figures/ProjectRubric.png](figures/ProjectRubric.png)
 
+## Contact Me
+
+I you find these materials useful, let me know!  If you have suggestions for other reading or materials that might work well with this class, also let me know: anna.haensch@tufts.edu
