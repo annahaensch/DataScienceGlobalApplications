@@ -1,6 +1,6 @@
 _This course material was originally prepared by [Anna Haensch](https://annahaensch.com/) and [Karin Knudson](https://karinknudson.com/) at the Fletcher Graduate School of Global Affairs at Tufts University.  We wrote about some of our motivations and methodology for the 2022 SciPy Conference Proceedings in ["Python for Global Applications: teaching scientific Python in context to law and diplomacy students"](https://conference.scipy.org/proceedings/scipy2022/anna_haensch.html)_.
 
-## Course Ouline
+## Course Outline
 
 This course is designed for a 14 week semester with two 80 minute class meetings per week. Here we present the main topics and assement tools of each module.
 
@@ -177,4 +177,4 @@ A core throughline of this course is the policy project.  There are various chec
 
 ## Contact Me
 
-I you find these materials useful, let me know!  If you have suggestions for other reading or materials that might work well with this class, also let me know: anna.haensch@tufts.edu
+If you find these materials useful, let me know!  If you have suggestions for other reading or materials that might work well with this class, also let me know: anna.haensch@tufts.edu
