@@ -156,6 +156,13 @@ In what follows we provide a week-by-week plan including learning objectives, ex
   * Students will concisely communicate their findings.
 
 
+## Python Problem Sets
+
+To accompany each of the three course modules (i.e. data exploration, data visualization, and data modeling), there is a Python problem set.  These usually take some time to complete, but should be doable with the skill set acquired over the course of the module.
+* [I. Data Exploration Problem Set](https://drive.google.com/drive/folders/10hyU59KOigmahXRhsTlYgs3LLmOUKM8D?usp=sharing)
+* [II. Data Visualization Problem Set](https://drive.google.com/drive/folders/1TcDoWcrq6EuDo6DVgxX7O55YvOY45R-5?usp=sharing)
+* [III. Data Modeling Problem Set](https://drive.google.com/drive/folders/1Ul7g27-mFJnsXfo8WsFJmpb9TiHQCuGO?usp=sharing)
+
 ## The Policy Project 
 
 A core throughline of this course is the policy project.  There are various checkpoints and benchmarks throughout the semester.  This project culminates with a final policy paper due at the end of the semester, as well as an in-class presentation of key findings and takeaways.  The critical checkpoints through the semester are as follows:
