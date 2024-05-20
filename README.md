@@ -89,7 +89,7 @@ In what follows we provide a week-by-week plan including learning objectives, ex
   * Students will maniplulate labels and annotation on existing plots.
   * Students will become familiar with less common plot classes such as radial plots and heatmaps.
 * In Class-Exercises:
-  * [Workbook 9: Wother Ways to Plot](https://colab.research.google.com/drive/1ZSgkiIMcjN9vdk76ir6aKnSU7ZDLxbYj?usp=sharing)
+  * [Workbook 9: Other Ways to Plot](https://colab.research.google.com/drive/1ZSgkiIMcjN9vdk76ir6aKnSU7ZDLxbYj?usp=sharing)
 * Suggested Reading: 
   * [C.O. Wilke, "Fundamentals of Data Visualization, Part II." (2019).](https://clauswilke.com/dataviz/)
 
